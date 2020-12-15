@@ -37,7 +37,7 @@ def Axn(i,x,n):
     return summ2
 '''
 Input i in decimal form, x from select, and n term'''
-print(Axn(.05,30,120)) #ultimate
-print(axn(.05,30,28))
+print(Axn(i,x,n)) #ultimate
+print(axn(i,x,n))
 
 
