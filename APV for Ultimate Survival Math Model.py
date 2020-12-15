@@ -29,5 +29,5 @@ def Axn(i,x,n):
       summ = summ + ((1+k)*(v**(k+1)) * ((t_p_x(k,x)*(1-t_p_x(1,x+k)))))
     return summ
 
-print(Axn(.05,45,20))
-print(axn(.05,41,19))
+print(Axn(i,x,n))
+print(axn(i,x,n))
